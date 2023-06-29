@@ -53,6 +53,10 @@
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="64" height="64" /></li>
     <br>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="64" height="64"/></li>
+    <br>
+    <li>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJS"  width="64" height="64"/>
+          </li>
   </ol>
 </div>
 </div>
