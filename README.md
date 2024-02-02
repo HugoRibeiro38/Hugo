@@ -23,13 +23,19 @@
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /></li>
       <br>
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64" /></li>
+      <br>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="DotnetCore" width="64" height="64" /></li>
+      <br>
+       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64" height="64" /></li>
+      <br>
+       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" alt="Kotlin" width="64" height="64" /></li>
     </ol>
   </div>
 
 <br><br>
   
    <div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px; ">
-    <p><strong>Tools:</strong></p>
+    <p><strong>Tools and Databases:</strong></p>
     <ol>
       <li><img src="https://user-images.githubusercontent.com/76649650/220454372-e387b3d3-8d32-474a-bcc6-46ca8eee125d.png" alt="Gradle" width="104" height="64" /></li>
       <br>
@@ -40,6 +46,12 @@
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="64" height="64" /></li>
       <br>
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VsCode"  width="64" height="64"/></li>
+      <br>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"  width="64" height="64"/></li>
+      <br>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL"  width="64" height="64"/></li>
+      <br>
+      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="64" height="64"/></li>
     </ol>
   </div>
 
@@ -57,6 +69,8 @@
     <li>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJS"  width="64" height="64"/>
           </li>
+    <br>
+     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJS" width="64" height="64"/></li>
   </ol>
 </div>
 </div>
