@@ -5,7 +5,7 @@
 
 <center>
 
-***Currently, I am in the final year of my computer engineering degree. Below are some of the tools, frameworks, and programming languages I have worked with***
+***Currently, I am in the final year of my computer engineering degree. Below are some of the tools, frameworks, and programming languages I have worked with:***
 
 </center>
 
