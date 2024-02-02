@@ -1,93 +1,74 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm Hugo Ribeiro</h1>
-<h3 align="center"> <strong>Engineering Student in <a href="https://www.estg.ipp.pt">ESTG</a></strong> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></h3>
+### Hi, I'm Jao 🫠
 
-</br>
+```java
+public Class Hugo{
+  private final String name = "Hugo Ribeiro";
+  private int age = 21;
+  private String country = "Portugal";
+  private String[] education = {Externato Vila Meã,
+                                ESTG - Software Engineer};
+  private boolean isProgrammer = true;
+}
 
-<center>
+```
 
-***Currently, I am in the final year of my computer engineering degree. Below are some of the tools, frameworks, and programming languages I have worked with:***
-
-</center>
-
-<br>
-<br>
-
-<div style="display: flex; ">
-  <div style="flex: 1;">
-    <p><strong>Programming Languages:</strong></p>
-    <ol>
-      <li><img src="https://user-images.githubusercontent.com/76649650/220453328-abdc7556-6614-4556-9ee7-6cc001b0bcc7.png" alt="Java" width="104" height="64" /></li>
-      <br>
-      <li><img src="https://user-images.githubusercontent.com/76649650/220453754-d039e7be-959a-499f-b32b-811e30353df6.png" alt="C" width="64" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="64" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="DotnetCore" width="64" height="64" /></li>
-      <br>
-       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="64" height="64" /></li>
-      <br>
-       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" alt="Kotlin" width="64" height="64" /></li>
-    </ol>
+<details>
+  <summary>GitHub Stats 📊 </summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=HugoRibeiro38" height="150" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&username=HugoRibeiro38" height="150" alt="languages graph"  />
   </div>
+</details>
 
-<br><br>
-  
-   <div style="display: flex; flex-direction: column; align-items: center; margin-top: 40px; ">
-    <p><strong>Tools and Databases:</strong></p>
-    <ol>
-      <li><img src="https://user-images.githubusercontent.com/76649650/220454372-e387b3d3-8d32-474a-bcc6-46ca8eee125d.png" alt="Gradle" width="104" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="64" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="64" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="64" height="64" /></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VsCode"  width="64" height="64"/></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"  width="64" height="64"/></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL"  width="64" height="64"/></li>
-    </ol>
-  </div>
-
-<br><br>
-
- <div>
-  <p><strong>Frameworks:</strong></p>
-  <ol>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressJS" width="64" height="64" /></li>
-    <br>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="64" height="64" /></li>
-    <br>
-    <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="64" height="64"/></li>
-    <br>
-    <li>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="NextJS"  width="64" height="64"/>
-          </li>
-  </ol>
-</div>
-</div>
-
-<br>
-<br>
-
-## <p align="center"><em><b>I am always looking to acquire more knowledge and become better and better &#x1F468;&#x200D;&#x1F4BB;</b></em></p>
+## 💻 Tech Stack
 
 
+### 🛠️ Back End
+[![My Skills](https://skillicons.dev/icons?i=java,hibernate,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+
+### 🎨 Front End
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,bootstrap,angular,react,tailwind,ts&theme=dark)](https://skillicons.dev)
+### 🗃️ DataBase
+[![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark)](https://skillicons.dev)
+
+### Android 📱
+[![My Skills](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://skillicons.dev)
+
+### 🔗 Extra Tools, Services and Frameworks
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,powershell,git,docker,gradle,figma,nodejs,nextjs,azure,aws&theme=dark)](https://skillicons.dev)
+###  🌱 Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://skillicons.dev)
+
+## 🎮 Hobbies
+
+When I'm not immersed in code, you can find me:
+
+- Playing Games
+- Develop code
+- Play Football
+
+## 📫 Let's Connect!
+Feel free to reach out if you share similar interests, have project ideas, or just want to chat. Connect with me on
 
 
+<a target="_blank" href="https://www.linkedin.com/in/hugo-ribeiro-03a38628a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a target="_blank" href="mailto:8200441@estg.ipp.pt"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+<!--
+**JaoSousa9/JaoSousa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-
-
-
-
-
-
-
-
-
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
