@@ -45,9 +45,9 @@ public Class Hugo{
 
 When I'm not immersed in code, you can find me:
 
-- Playing Games
-- Develop code
+- Playing VideoGames
 - Play Football
+- Listening music
 
 ## 📫 Let's Connect!
 Feel free to reach out if you share similar interests, have project ideas, or just want to chat. Connect with me on
