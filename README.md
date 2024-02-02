@@ -50,15 +50,13 @@
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker"  width="64" height="64"/></li>
       <br>
       <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL"  width="64" height="64"/></li>
-      <br>
-      <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite"  width="64" height="64"/></li>
     </ol>
   </div>
 
 <br><br>
 
  <div>
-  <p><strong>Frameworks</strong></p>
+  <p><strong>Frameworks:</strong></p>
   <ol>
     <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="expressJS" width="64" height="64" /></li>
     <br>
