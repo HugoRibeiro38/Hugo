@@ -33,7 +33,7 @@ public Class Hugo{
 ### 🗃️ DataBase
 [![My Skills](https://skillicons.dev/icons?i=mongodb,sqlite&theme=dark)](https://skillicons.dev)
 
-### Android 📱
+### 📱 Android 
 [![My Skills](https://skillicons.dev/icons?i=kotlin&theme=dark)](https://skillicons.dev)
 
 ### 🔗 Extra Tools, Services and Frameworks
