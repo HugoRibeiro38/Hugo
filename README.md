@@ -5,8 +5,8 @@ public Class Hugo{
   private final String name = "Hugo Ribeiro";
   private int age = 21;
   private String country = "Portugal";
-  private String[] education = {Externato Vila Meã,
-                                ESTG - Software Engineer};
+  private String[] education = {"Externato Vila Meã",
+                                "ESTG - Software Engineer"};
   private boolean isProgrammer = true;
 }
 
