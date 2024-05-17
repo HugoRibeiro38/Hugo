@@ -40,6 +40,10 @@ public Class Hugo{
 [![My Skills](https://skillicons.dev/icons?i=vscode,idea,linux,powershell,git,docker,gradle,figma,nodejs,nextjs,azure,aws&theme=dark)](https://skillicons.dev)
 ###  🌱 Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=kubernetes&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=grafana&theme=dark)](https://skillicons.dev)
+
+
 
 ## 🎮 Hobbies
 
